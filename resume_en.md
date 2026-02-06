@@ -25,7 +25,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 | Company | Role | Period |
 |---------|------|--------|
 | **MakeStar** | Backend Engineer | May 2024 – Present |
-| **Suho.io** | Backend Engineer | Apr 2023 – Mar 2024 |
+| **Sooho.io** | Backend Engineer | Apr 2023 – Mar 2024 |
 | **Nexon Korea – Intelligence Labs** | Backend Engineer | Jan 2022 – Oct 2022 |
 | **Buzzvil** | Backend Engineer | May 2021 – Oct 2021 |
 | **Naver Cloud Platform** | DB Engineering Intern | Jul 2020 – Aug 2020 |
@@ -57,7 +57,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 
 ---
 
-### Suho.io | Apr 2023 – Mar 2024 → [Details](https://github.com/geunwoobaek/resume/blob/main/detail/en/suhoio.md)
+### Sooho.io | Apr 2023 – Mar 2024 → [Details](https://github.com/geunwoobaek/resume/blob/main/detail/en/suhoio.md)
 
 > Backend development and infrastructure for blockchain services (NFT Platform · DEX)
 

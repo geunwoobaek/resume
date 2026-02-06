@@ -58,10 +58,10 @@ Tech: Java 21, Kotlin, Spring Boot 3.x, JPA/QueryDSL, PostgreSQL, Redis, GKE, Cl
 
 ---
 
-### 2. Suho.io
+### 2. Sooho.io
 
 **Title**: Backend Engineer
-**Company**: Suho.io
+**Company**: Sooho.io
 **Period**: Apr 2023 – Mar 2024
 **Location**: Seoul, South Korea
 

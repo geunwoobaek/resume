@@ -1,8 +1,8 @@
-# Suho.io
+# Sooho.io
 
 > Backend Engineer | Apr 2023 – Mar 2024
 
-Backend development and infrastructure engineering at Suho.io, a blockchain-based service company. Responsible for infrastructure improvements, NFT platform, and DEX (Decentralized Exchange) backend development.
+Backend development and infrastructure engineering at Sooho.io, a blockchain-based service company. Responsible for infrastructure improvements, NFT platform, and DEX (Decentralized Exchange) backend development.
 
 ---
 
