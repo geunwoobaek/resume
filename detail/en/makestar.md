@@ -2,7 +2,7 @@
 
 > Backend Engineer | May 2024 – Present
 
-Backend development for OMS (Order Management System), TMS (Transportation Management System), and logistics systems at MakeStar, a global K-POP commerce platform.
+Backend development for OMS (Order Management System), TMS (Transportation Management System), and Shipping Cost System, including WMS integration, at MakeStar, a global K-POP commerce platform.
 
 ---
 
@@ -49,9 +49,7 @@ Core order management system handling the full order lifecycle — from order in
 
 Multi-layered concurrency control strategy ensuring data consistency when multiple admins allocate stock simultaneously.
 
-- **Pessimistic Locking**: `PESSIMISTIC_WRITE` locks applied at 3 levels — Order, LineItem, StockItemQuantity
-- **Deadlock Prevention**: SKU codes sorted before lock acquisition for consistent Lock Ordering; single IN-clause query for bulk locking
-- **Lock Projection**: Projection interfaces instead of full entity loading to minimize data overhead
+- **Deadlock Prevention**: SKU codes sorted before lock acquisition for consistent Lock Ordering; single IN-clause query for bulk locking to eliminate circular wait
 - **Atomic Update**: WHERE clause with `quantity >= 0` constraint prevents negative inventory at DB level
 - **JDBC Batch Update**: Bulk allocation via JDBC batchUpdate instead of JPA for reduced transaction overhead
 - **Transaction Isolation**: `Propagation.REQUIRES_NEW` per allocation unit for independent transactions

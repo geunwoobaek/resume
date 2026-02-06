@@ -48,7 +48,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 
 - Designed and built an OMS handling the full order lifecycle — order intake from commerce, stock allocation, WMS fulfillment, and delivery — processing hundreds to thousands of orders daily
 - Architected a stock allocation system (auto/manual/simulation, KIT assembly, per-SKU quantity management) that eliminated the key operational bottleneck of manual spreadsheet-based allocation
-- Implemented concurrency control with Pessimistic Locking + Lock Ordering to prevent deadlocks, and DB-level Atomic Updates to prevent negative inventory
+- Designed multi-layered concurrency control — Lock Ordering to prevent deadlocks, DB-level Atomic Updates to prevent negative inventory
 - Built bidirectional OMS ↔ Commerce integration and WMS fulfillment registration via OpenFeign + Spring Event (BEFORE_COMMIT) ensuring transactional consistency
 - Developed a dynamic shipping cost calculation system with 3D Bin Packing optimization, supporting 10+ international carriers
 - Built a TMS with real-time shipment tracking via SF Express and GoodsFlow APIs, synchronized at sub-5-minute intervals via Cloud Scheduler
