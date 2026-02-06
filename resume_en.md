@@ -40,7 +40,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 
 ## Projects
 
-### MakeStar | May 2024 – Present → [Details](detail/en/makestar.md)
+### MakeStar | May 2024 – Present → [Details](https://github.com/geunwoobaek/resume/blob/main/detail/en/makestar.md)
 
 > Backend development of OMS · TMS · Shipping Cost System for a global K-POP commerce platform
 
@@ -57,7 +57,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 
 ---
 
-### Suho.io | Apr 2023 – Mar 2024 → [Details](detail/en/suhoio.md)
+### Suho.io | Apr 2023 – Mar 2024 → [Details](https://github.com/geunwoobaek/resume/blob/main/detail/en/suhoio.md)
 
 > Backend development and infrastructure for blockchain services (NFT Platform · DEX)
 
@@ -70,7 +70,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 
 ---
 
-### Nexon Korea – Intelligence Labs | Jan 2022 – Oct 2022 → [Details](detail/en/nexon.md)
+### Nexon Korea – Intelligence Labs | Jan 2022 – Oct 2022 → [Details](https://github.com/geunwoobaek/resume/blob/main/detail/en/nexon.md)
 
 > Real-time event system development for KartRider, Baram, Sudden Attack, and other game titles
 
@@ -82,7 +82,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 
 ---
 
-### Buzzvil | May 2021 – Oct 2021 → [Details](detail/en/buzzvil.md)
+### Buzzvil | May 2021 – Oct 2021 → [Details](https://github.com/geunwoobaek/resume/blob/main/detail/en/buzzvil.md)
 
 > Ad allocation logic development for a high-traffic ad server
 
@@ -93,7 +93,7 @@ Backend engineer with hands-on experience across e-commerce, blockchain, and gam
 
 ---
 
-### Naver Cloud Platform | Jul 2020 – Aug 2020 → [Details](detail/en/naver_cloud.md)
+### Naver Cloud Platform | Jul 2020 – Aug 2020 → [Details](https://github.com/geunwoobaek/resume/blob/main/detail/en/naver_cloud.md)
 
 > MySQL performance tuning and Mini MySQL engine implementation
 
